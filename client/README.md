@@ -10,3 +10,6 @@ crud 기능을 하는 마켓을 구현해볼 예정이다.
 어려웠던 점: express 설치도 생소했다. `https://velog.io/@kimhyo_0218/Node.js-express.js-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0` 여기서 참고했다.
 오늘 알게된 점 : client 폴더와 server 폴더를 따로 만들어준것. 각각 react 설치, express 설치를 해줬다. 
 회고: 오늘은 일단 이정도만 !!! 
+
+## 2022.12.16 금요일 
+오늘 한 것 : client에 redux 설치, styled component 설치, React에서 ESlint를 사용할 수 있게 돕는 관련 플러그인을 설치
